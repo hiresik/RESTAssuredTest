@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="HPDV6" name="TestFramework.dummy_RestApi" tests="10" failures="0" timestamp="4 Aug 2020 20:08:15 GMT" time="12.834" errors="0">
+  <testcase name="get_all_emp" time="2.8" classname="TestFramework.dummy_RestApi"/>
+  <testcase name="get_emp" time="1.175" classname="TestFramework.dummy_RestApi"/>
+  <testcase name="create_emp" time="1.043" classname="TestFramework.dummy_RestApi"/>
+  <testcase name="upd_emp" time="1.028" classname="TestFramework.dummy_RestApi"/>
+  <testcase name="del_emp" time="1.011" classname="TestFramework.dummy_RestApi"/>
+  <testcase name="create_emp_xl" time="1.334" classname="TestFramework.dummy_RestApi"/>
+  <testcase name="create_emp_xl" time="1.251" classname="TestFramework.dummy_RestApi"/>
+  <testcase name="create_emp_xl" time="1.109" classname="TestFramework.dummy_RestApi"/>
+  <testcase name="create_emp_xl" time="1.112" classname="TestFramework.dummy_RestApi"/>
+  <testcase name="xl" time="0.002" classname="TestFramework.dummy_RestApi"/>
+</testsuite>
